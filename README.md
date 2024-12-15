@@ -1,6 +1,6 @@
 # Know Me!
 
-<img src="https://github.com/user-attachments/assets/62661972-dac9-406c-8f76-44b4a86597ed" alt="just for fun :D">
+<img src="https://github.com/user-attachments/assets/62661972-dac9-406c-8f76-44b4a86597ed"  height="150px" alt="just for fun :D">
 
 <h2 align="center">سلام 👋 من طاها هستم 🗿</h2>
 <p align="center">برنامه‌نویس پایتونم 🐍 و به هوش مصنوعی، ترید کریپتو و گیمینگ علاقه دارم 🎮💻 همیشه در حال یادگیری و به اشتراک گذاشتن تجربیاتم هستم 🤩</p>
