@@ -1,27 +1,26 @@
-### **👋 سلام، من TahaXCode هستم!**
+# Know Me!
 
-💻 **برنامه‌نویس پایتون** و عاشق دنیای **هوش مصنوعی** و **ترید کریپتو**!  
-🎓 **دانشجوی مهندسی کامپیوتر** در مقطع کارشناسی پیوسته و همیشه در حال یادگیری تکنولوژی‌های جدید و بهبود مهارت‌ها.  
-🚀 همیشه در جستجوی راه‌حل‌های مقیاس‌پذیر و پروژه‌های جالب برای ساختن!
+<img src="https://raw.githubusercontent.com/TahaXCode/TahaXCode/main/images/github-contribution-grid-snake.svg" alt="just for fun :D">
 
-### **🔧 مهارت‌ها و ابزارهایی که استفاده می‌کنم:**
-- **Python**
-- **AI & Machine Learning**
-- **Discord Bots Development**
-- **Crypto Trading & Technical Analysis**
-- **PyCharm, Vscode**
-- **discord.py**  
+<h2 align="center">سلام 👋 من طاها هستم 🗿</h2>
+<p align="center">برنامه‌نویس پایتونم 🐍 و به هوش مصنوعی، ترید کریپتو و گیمینگ علاقه دارم 🎮💻 همیشه در حال یادگیری و به اشتراک گذاشتن تجربیاتم هستم 🤩</p>
 
-### **🛠️ پروژه‌ها و تجربیات:**
-- **پروژه‌های پایتون**: ساخت پروژه‌های مختلف با پایتون از جمله اسکریپت‌های کاربردی.
-- **ربات‌های دیسکورد**: طراحی و توسعه ربات‌های دیسکورد با استفاده از discord.py.
-- **ویرایش ویدیو**: مهارت در ادیت ویدیو با **Adobe Premier**.
+<h2 align="right">🎓 مهارت‌ها و ابزارهایی که استفاده میکنم:</h2>
 
-### **📈 در حال یادگیری و کار بر روی موارد زیر:**
-- **Machine Learning** و **Deep Learning** (در آینده)
-- **ترید کریپتو** و **تحلیل تکنیکال**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vscode](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-%2356B9F1.svg?style=for-the-badge&logo=discord&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white) ![Crypto](https://img.shields.io/badge/Crypto%20Trading-%2300D4FF.svg?style=for-the-badge&logo=bitcoin&logoColor=white)
 
-### **🎮 علاقه‌مندی‌ها:**
-- بازی‌هایی مثل **Dota 2**, **CS2**, **FiveM (Heavy RP)**, **For Honor**.
+<br>
+<h2 align="right">تماس با من ☎️:</h2>
+<br><br>
+<h2 align="right">🌱 در حال حاضر دارم اینا رو یاد میگیرم:</h2>
+<h3 align="left">🔮 Machine Learning | 30%</h3><img align="left" src="https://raw.githubusercontent.com/TahaXCode/TahaXCode/main/images/bar.png" width="150px" height="16px">
+<br>
+<h3 align="left">🔮 Deep Learning | 30%</h3><img align="left" src="https://raw.githubusercontent.com/TahaXCode/TahaXCode/main/images/bar.png" width="1px" height="16px">
+<br>
+<h3 align="left">🔮 Crypto Trading & Technical Analysis | 60%</h3><img align="left" src="https://raw.githubusercontent.com/TahaXCode/TahaXCode/main/images/bar.png" width="300px" height="16px">
+<br>
 
-
+<h2 align="right">🌞 الان مشغول این کارا هستم: </h2>
+<h4 align="right">⭐️ توسعه ربات‌های دیسکورد</h4>
+<h4 align="right">⭐️ ساخت پروژه‌های کاربردی</h4>
+<h4 align="right">⭐️ ترید کریپتو و تحلیل تکنیکال</h4>
