@@ -12,12 +12,14 @@
 <br>
 <h2 align="right">تماس با من ☎️:</h2>
 <br><br>
-<h2 align="right">🌱 در حال حاضر دارم اینا رو یاد میگیرم:</h2>
-<h3 align="left">🔮 Machine Learning | 30%</h3><img align="left" src="https://github.com/user-attachments/assets/688631d6-8b99-4ce2-97ea-9ee5976e7dd0" width="150px" height="16px">
+<h2 align="right">🌱 در حال حاضر دارم اینا رو یاد میگیرم:</h2>>
+<h3 align="left">🔮 Python | 90%</h3><img align="left" src="https://github.com/user-attachments/assets/688631d6-8b99-4ce2-97ea-9ee5976e7dd0" width="90%" height="16px">
 <br>
-<h3 align="left">🔮 Deep Learning | 1%</h3><img align="left" src="https://github.com/user-attachments/assets/688631d6-8b99-4ce2-97ea-9ee5976e7dd0" width="1px" height="16px">
+<h3 align="left">🔮 Machine Learning | 30%</h3><img align="left" src="https://github.com/user-attachments/assets/688631d6-8b99-4ce2-97ea-9ee5976e7dd0" width="30%" height="16px">
 <br>
-<h3 align="left">🔮 Crypto Trading & Technical Analysis | 50%</h3><img align="left" src="https://github.com/user-attachments/assets/688631d6-8b99-4ce2-97ea-9ee5976e7dd0" width="250px" height="16px">
+<h3 align="left">🔮 Deep Learning | 1%</h3><img align="left" src="https://github.com/user-attachments/assets/688631d6-8b99-4ce2-97ea-9ee5976e7dd0" width="1%" height="16px">
+<br>
+<h3 align="left">🔮 Crypto Trading & Technical Analysis | 50%</h3><img align="left" src="https://github.com/user-attachments/assets/688631d6-8b99-4ce2-97ea-9ee5976e7dd0" width="50%" height="16px">
 <br>
 
 <h2 align="right">🌞 الان مشغول این کارا هستم: </h2>
