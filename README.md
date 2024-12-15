@@ -1,16 +1,27 @@
-## Hi there 👋
+### **👋 سلام، من TahaXCode هستم!**
 
-<!--
-**TahaXCode/TahaXCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **برنامه‌نویس پایتون** و عاشق دنیای **هوش مصنوعی** و **ترید کریپتو**!  
+🎓 **دانشجوی مهندسی کامپیوتر** در مقطع کارشناسی پیوسته و همیشه در حال یادگیری تکنولوژی‌های جدید و بهبود مهارت‌ها.  
+🚀 همیشه در جستجوی راه‌حل‌های مقیاس‌پذیر و پروژه‌های جالب برای ساختن!
 
-Here are some ideas to get you started:
+### **🔧 مهارت‌ها و ابزارهایی که استفاده می‌کنم:**
+- **Python**
+- **AI & Machine Learning**
+- **Discord Bots Development**
+- **Crypto Trading & Technical Analysis**
+- **PyCharm, Vscode**
+- **discord.py**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **🛠️ پروژه‌ها و تجربیات:**
+- **پروژه‌های پایتون**: ساخت پروژه‌های مختلف با پایتون از جمله اسکریپت‌های کاربردی.
+- **ربات‌های دیسکورد**: طراحی و توسعه ربات‌های دیسکورد با استفاده از discord.py.
+- **ویرایش ویدیو**: مهارت در ادیت ویدیو با **Adobe Premier**.
+
+### **📈 در حال یادگیری و کار بر روی موارد زیر:**
+- **Machine Learning** و **Deep Learning** (در آینده)
+- **ترید کریپتو** و **تحلیل تکنیکال**
+
+### **🎮 علاقه‌مندی‌ها:**
+- بازی‌هایی مثل **Dota 2**, **CS2**, **FiveM (Heavy RP)**, **For Honor**.
+
+
