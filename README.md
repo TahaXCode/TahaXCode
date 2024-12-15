@@ -11,7 +11,7 @@
 
 <br>
 <h2 align="right">تماس با من ☎️:</h2>
-<p href="https://discord.com/users/812641116918120469" align="right">My Discord</p>
+<a href="https://discord.com/users/812641116918120469" align="right">My Discord</a>
 
 <br>
 <h2 align="right">🌱 در حال حاضر دارم اینا رو یاد میگیرم:</h2>>
